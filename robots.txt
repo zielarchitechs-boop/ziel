@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Allow: /favicon.svg
+
+Sitemap: https://intelligent-ps.store/sitemap.xml
